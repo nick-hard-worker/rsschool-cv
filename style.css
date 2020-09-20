@@ -1,6 +1,15 @@
 article.cv {
-  display: block;
   max-width: 1024px;
   margin-left: auto;
   margin-right: auto
+}
+
+section.contacts {
+  height: 200px;
+}
+
+img.photoCV {
+  height: 200px;
+  display: block;
+  float: right;
 }
